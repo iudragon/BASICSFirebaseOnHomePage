@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "262380628552",
+    "firebase_url": "https://fbhhh-da7a6.firebaseio.com",
+    "project_id": "fbhhh-da7a6",
+    "storage_bucket": "fbhhh-da7a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262380628552:android:2bdd7d52569e3945",
+        "android_client_info": {
+          "package_name": "com.lewokapps.firebaseonhomepage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262380628552-64ik4em7joa1tmarov5bcl1es8ocifam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOIGB3pFpsNL3owNjIpgovFTcFu5tkNV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262380628552-64ik4em7joa1tmarov5bcl1es8ocifam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
